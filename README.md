@@ -13,6 +13,10 @@
 * This is a project about Web Application using OpenAI API.
 * You can try ChatGPT simple call by this application.
 * You can choose various prompt templates.
+* Using following products.
+  * Python
+  * Angular
+  * AWS ( Amazon Web Service ) - EC2
 
 ## Demo
 
